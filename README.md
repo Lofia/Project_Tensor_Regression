@@ -1,1 +1,1 @@
-# Project_Tensor_Regression
+# STAT 676 Final Project
